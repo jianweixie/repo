@@ -1,3 +1,3 @@
 # Testing code
-x <- rnorm(100)
+x <- rnorm(1000)
 plot(x, xlim = c(-2,2))
